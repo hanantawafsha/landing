@@ -20,7 +20,7 @@
 }
 
 :root{
-    --main-color: #545BE8;
+    --main-Color: #545BE8;
     --main-Font:'Poppins', Sans-serif;
     --sub-Font:'Inter', sans-serif;
 }
@@ -41,5 +41,4 @@ ul{
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    font-family: var(--main-Font);
 }
